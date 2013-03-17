@@ -1,4 +1,4 @@
-
+from collections import defaultdict
 
 class baseclass(object):
     def __init__(self):
@@ -37,7 +37,7 @@ class dateclass(baseclass):
 class citation(baseclass):
     def __init__(self, tokens):
 
-        self.info = {}
+        self.info = defaultdict(list)
         self.process(tokens)
     def process(self, tokens):
 
@@ -46,10 +46,7 @@ class citation(baseclass):
             if value.strip()!= "":  ## No need of keys to empty values
                 key = t[:4].strip() 
                 if key in ["AU","KW"]: ## Author and Keyword can have n-values
-                    ## if we don't have this keys, add it
-                    if self.info.get(key) == None : 
-                        self.info[key] = [value]
-                    else: self.info[key].append(value) ## or append the value
+                   self.info[key].append(value)
                 else: self.info[key] = value
                 if key == "PY":
                     self.info[key] = dateclass(value)
@@ -82,5 +79,6 @@ def readbiblio():
     for index,y in enumerate(pubyear):
         print y, pubyear[y]
     print pubyear
+
 readbiblio()
         
