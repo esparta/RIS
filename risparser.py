@@ -8,8 +8,10 @@ class baseclass(object):
 class dateclass(baseclass):
     
     def __init__(self,value):
-        if not isinstance(value, str) : 
-            raise TypeError("value for dateclass param is string")
+        if not (isinstance(value, str) \
+            or isinstance(value, unicode)): 
+            raise TypeError("value paramt must be string / unicode.\
+                             Suplied:{}".format(type(value)))
         
         self.value = value[:value.rfind("/")-1]  ## Remove last "/"
 
@@ -87,5 +89,5 @@ def main():
     #print pubyear
 
 if __name__ == "__main__":
-   main()
+    main()
         
