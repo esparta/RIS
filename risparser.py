@@ -55,20 +55,25 @@ class citation(baseclass):
 
 def readbiblio():
     citations  = []
-    with open("bigdata.keyword.ris") as f:
+    ## Open the file in universal mode
+    with open("data/bigdata.keyword.ris","rU") as f:
         tokens = []
+        ## Loop the file...
         for index,line in enumerate(f):
-           if line != "\r\n":
-              tokens.append(line)
-           elif len(tokens) > 0:
-               citations.append(citation(tokens))
-               tokens = []
+            ## Add the lines to temporarly list until 
+            ## it find a return line feed
+            if line != f.newlines:
+                tokens.append(line)
+            elif tokens:
+                ## If the token is not empty add a citation
+                citations.append(citation(tokens))
+                tokens = []
         print "Processed", index, "lines"
     pubyear = {}
     for index, c in enumerate(citations,1):
-        print c.getvalue("T1")
+        #print c.getvalue("T1")
         p = c.getvalue("PY") 
-        if p != None and p.year >= 2007: 
+        if p and p.year >= 2007: 
             key = p.year 
             if pubyear.get(key) == None:
               pubyear[key] = 1
@@ -81,5 +86,6 @@ def readbiblio():
         print y, pubyear[y]
     print pubyear
 
-readbiblio()
+if __name__ == "__main__":
+   readbiblio()
         
