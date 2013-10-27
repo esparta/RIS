@@ -8,7 +8,8 @@ class baseclass(object):
 class dateclass(baseclass):
     
     def __init__(self,value):
-        if not isinstance(value, str) : raise TypeError("value for dateclass param is string")
+        if not isinstance(value, str) : 
+            raise TypeError("value for dateclass param is string")
         
         self.value = value[:value.rfind("/")-1]  ## Remove last "/"
 
@@ -46,46 +47,45 @@ class citation(baseclass):
             if value.strip()!= "":  ## No need of keys to empty values
                 key = t[:4].strip() 
                 if key in ["AU","KW"]: ## Author and Keyword can have n-values
-                   self.info[key].append(value)
-                else: self.info[key] = value
+                    self.info[key].append(value)
+                else: 
+                    self.info[key] = value
                 if key == "PY":
                     self.info[key] = dateclass(value)
     def getvalue(self,key):
         return self.info.get(key)
 
-def readbiblio():
-    citations  = []
+def readbiblio(filename):
+    
     ## Open the file in universal mode
-    with open("data/bigdata.keyword.ris","rU") as f:
+    with open(filename,"rU") as f:
         tokens = []
         ## Loop the file...
-        for index,line in enumerate(f):
+        for index,line in enumerate(f,start=1):
             ## Add the lines to temporarly list until 
             ## it find a return line feed
             if line != f.newlines:
                 tokens.append(line)
             elif tokens:
-                ## If the token is not empty add a citation
-                citations.append(citation(tokens))
+                ## If the token is not empty yield a citation
+                yield citation(tokens)
                 tokens = []
         print "Processed", index, "lines"
-    pubyear = {}
-    for index, c in enumerate(citations,1):
-        #print c.getvalue("T1")
+
+def main():
+    pubyear = defaultdict(int)
+    filename = "data/bigdata.all.ris"
+    for c in readbiblio(filename):
         p = c.getvalue("PY") 
         if p and p.year >= 2007: 
-            key = p.year 
-            if pubyear.get(key) == None:
-              pubyear[key] = 1
-            else:  
-                pubyear[key] += 1
+            pubyear[p.year] += 1
 
         #print index, c.getvalue("PY")
         #print c.getvalue("T1"), "\nAuthors:" + str(c.getvalue("AU")) , "\r\nKeywords:" + str(c.getvalue("KW"))
-    for index,y in enumerate(pubyear):
-        print y, pubyear[y]
-    print pubyear
+    for k,v in pubyear.items():
+        print k,v
+    #print pubyear
 
 if __name__ == "__main__":
-   readbiblio()
+   main()
         
