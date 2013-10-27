@@ -55,7 +55,7 @@ class citation(baseclass):
 
 def readbiblio():
     citations  = []
-    with open("bigdata.exact_journals.ris") as f:
+    with open("bigdata.keyword.ris") as f:
         tokens = []
         for index,line in enumerate(f):
            if line != "\r\n":
@@ -66,6 +66,7 @@ def readbiblio():
         print "Processed", index, "lines"
     pubyear = {}
     for index, c in enumerate(citations,1):
+        print c.getvalue("T1")
         p = c.getvalue("PY") 
         if p != None and p.year >= 2007: 
             key = p.year 
