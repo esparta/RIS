@@ -72,13 +72,14 @@ def RISParser(filename):
 def readbiblio(filename):
     
     ## Open the file in universal mode
-    with open(filename,"rU") as __file:
+    with open(filename,"r") as __file:
         __tokens = []
         ## Loop the file...
         for __line in __file:
+            __line = __line.rstrip()
             ## Add the lines to temporarly list until 
             ## it find the End of Reference, ignoring the line feed
-            if __line != __file.newlines:
+            if __line:
                 if __line[:2] != "ER":
                     __tokens.append(__line)
                 elif __tokens:
