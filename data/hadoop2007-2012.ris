@@ -1,0 +1,2545 @@
+TY  - JOUR
+T1  - Design of Hadoop-based Framework for Analytics of Large Synchrophasor Datasets
+JO  - Procedia Computer Science
+VL  - 12
+IS  - 0
+SP  - 254
+EP  - 258
+PY  - 2012///
+T2  - Complex Adaptive Systems 2012
+AU  - Edwards, Matthew
+AU  - Rambani, Aseem
+AU  - Zhu, Yifeng
+AU  - Musavi, Mohamad
+SN  - 1877-0509
+DO  - http://dx.doi.org/10.1016/j.procs.2012.09.065
+UR  - http://www.sciencedirect.com/science/article/pii/S1877050912006564
+KW  - Smart Grids
+KW  - Synchrophasor
+KW  - Hadoop
+KW  - MapReduce
+ER  - 
+
+TY  - JOUR
+T1  - Research of Hadoop-based data flow management system
+JO  - The Journal of China Universities of Posts and Telecommunications
+VL  - 18, Supplement 2
+IS  - 0
+SP  - 164
+EP  - 168
+PY  - 2011/12//
+T2  - 
+AU  - QIU, Zhi
+AU  - LIN, Zhao-wen
+AU  - MA, Yan
+SN  - 1005-8885
+DO  - http://dx.doi.org/10.1016/S1005-8885(10)60140-9
+UR  - http://www.sciencedirect.com/science/article/pii/S1005888510601409
+KW  - data flow management system
+KW  - Hadoop
+KW  - cloud computing
+KW  - distributed
+ER  - 
+
+TY  - JOUR
+T1  - An Improved Apriori Algorithm Based On the Boolean Matrix and Hadoop
+JO  - Procedia Engineering
+VL  - 15
+IS  - 0
+SP  - 1827
+EP  - 1831
+PY  - 2011///
+T2  - CEIS 2011
+AU  - Yu, Honglie
+AU  - Wen, Jun
+AU  - Wang, Hongmei
+AU  - Jun, Li
+SN  - 1877-7058
+DO  - http://dx.doi.org/10.1016/j.proeng.2011.08.340
+UR  - http://www.sciencedirect.com/science/article/pii/S1877705811018418
+KW  - Apriori algorithm
+KW  - Boolean Marix
+KW  - frequent item sets
+KW  - Hadoop
+ER  - 
+
+TY  - JOUR
+T1  - A multi-agent simulation framework on small Hadoop cluster
+JO  - Engineering Applications of Artificial Intelligence
+VL  - 24
+IS  - 7
+SP  - 1120
+EP  - 1127
+PY  - 2011/10//
+T2  - Infrastructures and Tools for Multiagent Systems
+AU  - Sethia, Prashant
+AU  - Karlapalem, Kamalakar
+SN  - 0952-1976
+DO  - http://dx.doi.org/10.1016/j.engappai.2011.06.009
+UR  - http://www.sciencedirect.com/science/article/pii/S0952197611001096
+KW  - Multi-agent simulation
+KW  - Design
+KW  - Experimentation
+KW  - Reliability
+KW  - Cloud computing
+KW  - Fault-tolerance
+KW  - Failure-resilience
+KW  - Agent architecture
+ER  - 
+
+TY  - JOUR
+T1  - Using Performance Measurements to Improve MapReduce Algorithms
+JO  - Procedia Computer Science
+VL  - 9
+IS  - 0
+SP  - 1920
+EP  - 1929
+PY  - 2012///
+T2  - Proceedings of the International Conference on Computational Science, ICCS 2012
+AU  - Plantenga, Todd D.
+AU  - Choe, Yung Ryn
+AU  - Yoshimura, Ann
+SN  - 1877-0509
+DO  - http://dx.doi.org/10.1016/j.procs.2012.04.210
+UR  - http://www.sciencedirect.com/science/article/pii/S1877050912003316
+KW  - software performance
+KW  - Hadoop
+KW  - MapReduce
+KW  - cluster monitoring
+ER  - 
+
+TY  - JOUR
+T1  - MapReduce indexing strategies: Studying scalability and efficiency
+JO  - Information Processing & Management
+VL  - 48
+IS  - 5
+SP  - 873
+EP  - 888
+PY  - 2012/9//
+T2  - Large-Scale and Distributed Systems for Information Retrieval
+AU  - McCreadie, Richard
+AU  - Macdonald, Craig
+AU  - Ounis, Iadh
+SN  - 0306-4573
+DO  - http://dx.doi.org/10.1016/j.ipm.2010.12.003
+UR  - http://www.sciencedirect.com/science/article/pii/S0306457310001044
+KW  - MapReduce
+KW  - Indexing
+KW  - Efficiency
+KW  - Scalability
+KW  - Hadoop
+ER  - 
+
+TY  - JOUR
+T1  - Adapting scientific computing problems to clouds using MapReduce
+JO  - Future Generation Computer Systems
+VL  - 28
+IS  - 1
+SP  - 184
+EP  - 192
+PY  - 2012/1//
+T2  - 
+AU  - Srirama, Satish Narayana
+AU  - Jakovits, Pelle
+AU  - Vainikko, Eero
+SN  - 0167-739X
+DO  - http://dx.doi.org/10.1016/j.future.2011.05.025
+UR  - http://www.sciencedirect.com/science/article/pii/S0167739X11001075
+KW  - Scientific computing
+KW  - Cloud computing
+KW  - MapReduce
+KW  - Hadoop
+KW  - Iterative algorithm
+KW  - Twister
+ER  - 
+
+TY  - JOUR
+T1  - Mass Data Storage and Management Solution Based on Cloud Computing
+JO  - IERI Procedia
+VL  - 2
+IS  - 0
+SP  - 742
+EP  - 747
+PY  - 2012///
+T2  - International Conference on Future Computer Supported Education, August 22- 23, 2012,Fraser Place Central - Seoul
+AU  - Li, Fei
+AU  - Du, Jing
+SN  - 2212-6678
+DO  - http://dx.doi.org/10.1016/j.ieri.2012.06.164
+UR  - http://www.sciencedirect.com/science/article/pii/S2212667812001724
+KW  - Cloud Computing
+KW  - Mass Data
+KW  - Virtualization Storage
+KW  - Hadoop
+KW  - MapReduce
+ER  - 
+
+TY  - JOUR
+T1  - Research on Cloud Data Storage Technology and Its Architecture Implementation
+JO  - Procedia Engineering
+VL  - 29
+IS  - 0
+SP  - 133
+EP  - 137
+PY  - 2012///
+T2  - 2012 International Workshop on Information and Electronics Engineering
+AU  - Liu, Kun
+AU  - Dong, Long-jiang
+SN  - 1877-7058
+DO  - http://dx.doi.org/10.1016/j.proeng.2011.12.682
+UR  - http://www.sciencedirect.com/science/article/pii/S1877705811065192
+KW  - Cloud Computing
+KW  - Cloud Storage
+KW  - Web Operating System
+KW  - Distributed File System ;
+ER  - 
+
+TY  - JOUR
+T1  - Improving resource efficiency in data centers using reputation-based resource selection
+JO  - Sustainable Computing: Informatics and Systems
+VL  - 2
+IS  - 3
+SP  - 138
+EP  - 150
+PY  - 2012/9//
+T2  - 
+AU  - Nguyen, Tung
+AU  - Shi, Weisong
+SN  - 2210-5379
+DO  - http://dx.doi.org/10.1016/j.suscom.2012.03.001
+UR  - http://www.sciencedirect.com/science/article/pii/S2210537912000182
+KW  - Reputation
+KW  - Energy efficiency
+KW  - Waste
+ER  - 
+
+TY  - JOUR
+T1  - An optimized approach for storing and accessing small files on cloud storage
+JO  - Journal of Network and Computer Applications
+VL  - 35
+IS  - 6
+SP  - 1847
+EP  - 1862
+PY  - 2012/11//
+T2  - 
+AU  - Dong, Bo
+AU  - Zheng, Qinghua
+AU  - Tian, Feng
+AU  - Chao, Kuo-Ming
+AU  - Ma, Rui
+AU  - Anane, Rachid
+SN  - 1084-8045
+DO  - http://dx.doi.org/10.1016/j.jnca.2012.07.009
+UR  - http://www.sciencedirect.com/science/article/pii/S1084804512001610
+KW  - Cloud storage
+KW  - Small file storage
+KW  - Storage efficiency
+KW  - Prefetching
+KW  - Access efficiency
+ER  - 
+
+TY  - JOUR
+T1  - Using Pig as a data preparation language for large-scale mining software repositories studies: An experience report
+JO  - Journal of Systems and Software
+VL  - 85
+IS  - 10
+SP  - 2195
+EP  - 2204
+PY  - 2012/10//
+T2  - Automated Software Evolution
+AU  - Shang, Weiyi
+AU  - Adams, Bram
+AU  - Hassan, Ahmed E.
+SN  - 0164-1212
+DO  - http://dx.doi.org/10.1016/j.jss.2011.07.034
+UR  - http://www.sciencedirect.com/science/article/pii/S0164121211002007
+KW  - Software engineering
+KW  - Mining Software Repositories
+KW  - Pig
+KW  - MapReduce
+ER  - 
+
+TY  - JOUR
+T1  - Fitting the Problem to the Paradigm: Algorithm Characteristics Required for Effective Use of MapReduce
+JO  - Procedia Computer Science
+VL  - 12
+IS  - 0
+SP  - 212
+EP  - 217
+PY  - 2012///
+T2  - Complex Adaptive Systems 2012
+AU  - Highland, Fred
+AU  - Stephenson, John
+SN  - 1877-0509
+DO  - http://dx.doi.org/10.1016/j.procs.2012.09.058
+UR  - http://www.sciencedirect.com/science/article/pii/S1877050912006497
+KW  - Big Data
+KW  - MapReduce
+KW  - Healthcare Analytics
+ER  - 
+
+TY  - JOUR
+T1  - Parallel Tree Reduction on MapReduce
+JO  - Procedia Computer Science
+VL  - 9
+IS  - 0
+SP  - 1827
+EP  - 1836
+PY  - 2012///
+T2  - Proceedings of the International Conference on Computational Science, ICCS 2012
+AU  - Emoto, Kento
+AU  - Imachi, Hiroto
+SN  - 1877-0509
+DO  - http://dx.doi.org/10.1016/j.procs.2012.04.201
+UR  - http://www.sciencedirect.com/science/article/pii/S1877050912003225
+KW  - Hadoop
+KW  - MapReduce
+KW  - Tree Homomorphism
+ER  - 
+
+TY  - JOUR
+T1  - Cloud-based image processing system with priority-based data distribution mechanism
+JO  - Computer Communications
+VL  - 35
+IS  - 15
+SP  - 1809
+EP  - 1818
+PY  - 2012/9/1/
+T2  - Smart and Interactive Ubiquitous Multimedia Services
+AU  - Wu, Tin-Yu
+AU  - Chen, Chi-Yuan
+AU  - Kuo, Ling-Shang
+AU  - Lee, Wei-Tsong
+AU  - Chao, Han-Chieh
+SN  - 0140-3664
+DO  - http://dx.doi.org/10.1016/j.comcom.2012.06.015
+UR  - http://www.sciencedirect.com/science/article/pii/S0140366412002277
+KW  - 3D image
+KW  - Cloud system
+KW  - Multicast streaming
+KW  - Image processing
+ER  - 
+
+TY  - JOUR
+T1  - Temperature aware power allocation: An optimization framework and case studies
+JO  - Sustainable Computing: Informatics and Systems
+VL  - 2
+IS  - 3
+SP  - 117
+EP  - 127
+PY  - 2012/9//
+T2  - 
+AU  - Li, Shen
+AU  - Wang, Shiguang
+AU  - Abdelzaher, Tarek
+AU  - Kihl, Maria
+AU  - Robertsson, Anders
+SN  - 2210-5379
+DO  - http://dx.doi.org/10.1016/j.suscom.2012.04.002
+UR  - http://www.sciencedirect.com/science/article/pii/S2210537912000261
+KW  - Data center
+KW  - Map-reduce
+KW  - Web-server
+KW  - Thermal-aware optimization
+KW  - Energy management
+ER  - 
+
+TY  - JOUR
+T1  - An Improvement of Choosing Map-join Candidates in Hive
+JO  - Procedia Computer Science
+VL  - 9
+IS  - 0
+SP  - 2012
+EP  - 2015
+PY  - 2012///
+T2  - Proceedings of the International Conference on Computational Science, ICCS 2012
+AU  - Wang, Fang
+AU  - Shi, Yong
+SN  - 1877-0509
+DO  - http://dx.doi.org/10.1016/j.procs.2012.04.225
+UR  - http://www.sciencedirect.com/science/article/pii/S1877050912003468
+KW  - Hive
+KW  - Hadoop
+KW  - join optimization
+KW  - data warehouse
+ER  - 
+
+TY  - JOUR
+T1  - A parallel method for computing rough set approximations
+JO  - Information Sciences
+VL  - 194
+IS  - 0
+SP  - 209
+EP  - 223
+PY  - 2012/7/1/
+T2  - Intelligent Knowledge-Based Models and Methodologies for Complex Information Systems
+AU  - Zhang, Junbo
+AU  - Li, Tianrui
+AU  - Ruan, Da
+AU  - Gao, Zizhe
+AU  - Zhao, Chengbing
+SN  - 0020-0255
+DO  - http://dx.doi.org/10.1016/j.ins.2011.12.036
+UR  - http://www.sciencedirect.com/science/article/pii/S0020025512000163
+KW  - Rough sets
+KW  - Data mining
+KW  - Approximations
+KW  - Hadoop
+KW  - MapReduce
+ER  - 
+
+TY  - JOUR
+T1  - A scalable and accurate method for classifying protein–ligand binding geometries using a MapReduce approach
+JO  - Computers in Biology and Medicine
+VL  - 42
+IS  - 7
+SP  - 758
+EP  - 771
+PY  - 2012/7//
+T2  - 
+AU  - Estrada, T.
+AU  - Zhang, B.
+AU  - Cicotti, P.
+AU  - Armen, R.S.
+AU  - Taufer, M.
+SN  - 0010-4825
+DO  - http://dx.doi.org/10.1016/j.compbiomed.2012.05.001
+UR  - http://www.sciencedirect.com/science/article/pii/S0010482512000807
+KW  - High-throughput docking
+KW  - Cross docking
+KW  - Ensemble docking
+KW  - Octree-based clustering
+KW  - Volunteer computing
+ER  - 
+
+TY  - JOUR
+T1  - MapReduce in MPI for Large-scale graph algorithms
+JO  - Parallel Computing
+VL  - 37
+IS  - 9
+SP  - 610
+EP  - 632
+PY  - 2011/9//
+T2  - Emerging Programming Paradigms for Large-Scale Scientific Computing
+AU  - Plimpton, Steven J.
+AU  - Devine, Karen D.
+SN  - 0167-8191
+DO  - http://dx.doi.org/10.1016/j.parco.2011.02.004
+UR  - http://www.sciencedirect.com/science/article/pii/S0167819111000172
+KW  - MapReduce
+KW  - Message-passing
+KW  - MPI
+KW  - Graph algorithms
+KW  - R-MAT matrices
+ER  - 
+
+TY  - JOUR
+T1  - Parallelizing XML data-streaming workflows via MapReduce
+JO  - Journal of Computer and System Sciences
+VL  - 76
+IS  - 6
+SP  - 447
+EP  - 463
+PY  - 2010/9//
+T2  - Special Issue: Scientific Workflow 2009 The 2nd International Workshop on Workflow Management and Application in Grid Environments &amp; The 3rd International Workshop on Workflow Management and Applications in Grid Environments
+AU  - Zinn, Daniel
+AU  - Bowers, Shawn
+AU  - Köhler, Sven
+AU  - Ludäscher, Bertram
+SN  - 0022-0000
+DO  - http://dx.doi.org/10.1016/j.jcss.2009.11.006
+UR  - http://www.sciencedirect.com/science/article/pii/S0022000009001226
+KW  - MapReduce
+KW  - XML processing pipelines
+KW  - Collection-Oriented Modeling and Design (COMAD)
+KW  - Virtual Data Assembly Line (VDAL)
+KW  - Parallelization
+KW  - Static analysis
+KW  - Grouping
+KW  - Data stream processing
+ER  - 
+
+TY  - JOUR
+T1  - BlobSeer: Next-generation data management for large scale infrastructures
+JO  - Journal of Parallel and Distributed Computing
+VL  - 71
+IS  - 2
+SP  - 169
+EP  - 184
+PY  - 2011/2//
+T2  - Data Intensive Computing
+AU  - Nicolae, Bogdan
+AU  - Antoniu, Gabriel
+AU  - Bougé, Luc
+AU  - Moise, Diana
+AU  - Carpen-Amarie, Alexandra
+SN  - 0743-7315
+DO  - http://dx.doi.org/10.1016/j.jpdc.2010.08.004
+UR  - http://www.sciencedirect.com/science/article/pii/S0743731510001401
+KW  - Data intensive applications
+KW  - Data management
+KW  - High throughput
+KW  - Versioning
+KW  - Concurrency
+KW  - Decentralized metadata management
+KW  - BlobSeer
+KW  - MapReduce
+ER  - 
+
+TY  - JOUR
+T1  - BSP vs MapReduce
+JO  - Procedia Computer Science
+VL  - 9
+IS  - 0
+SP  - 246
+EP  - 255
+PY  - 2012///
+T2  - Proceedings of the International Conference on Computational Science, ICCS 2012
+AU  - Pace, Matthew Felice
+SN  - 1877-0509
+DO  - http://dx.doi.org/10.1016/j.procs.2012.04.026
+UR  - http://www.sciencedirect.com/science/article/pii/S1877050912001470
+KW  - MapReduce
+KW  - BSP
+KW  - Parallel Algorithms
+ER  - 
+
+TY  - JOUR
+T1  - Improved Task Graph-based Parallel Data Processing for Dynamic Resource Allocation in Cloud
+JO  - Procedia Engineering
+VL  - 38
+IS  - 0
+SP  - 2172
+EP  - 2178
+PY  - 2012///
+T2  - INTERNATIONAL CONFERENCE ON MODELLING OPTIMIZATION AND COMPUTING
+AU  - Ajitha, A.
+AU  - Ramesh, D.
+SN  - 1877-7058
+DO  - http://dx.doi.org/10.1016/j.proeng.2012.06.261
+UR  - http://www.sciencedirect.com/science/article/pii/S1877705812021741
+KW  - Parallel data processing
+KW  - IaaS Cloud
+KW  - Task graph
+KW  - Heterogeneous environment
+KW  - Load balancing
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic energy efficient data placement and cluster reconfiguration algorithm for MapReduce framework
+JO  - Future Generation Computer Systems
+VL  - 28
+IS  - 1
+SP  - 119
+EP  - 127
+PY  - 2012/1//
+T2  - 
+AU  - Maheshwari, Nitesh
+AU  - Nanduri, Radheshyam
+AU  - Varma, Vasudeva
+SN  - 0167-739X
+DO  - http://dx.doi.org/10.1016/j.future.2011.07.001
+UR  - http://www.sciencedirect.com/science/article/pii/S0167739X1100135X
+KW  - Energy efficiency
+KW  - MapReduce
+KW  - Cloud computing
+ER  - 
+
+TY  - JOUR
+T1  - Tuple switching network—When slower may be better
+JO  - Journal of Parallel and Distributed Computing
+VL  - 72
+IS  - 11
+SP  - 1521
+EP  - 1534
+PY  - 2012/11//
+T2  - Communication Architectures for Scalable Systems
+AU  - Shi, Justin Y.
+AU  - Taifi, Moussa
+AU  - Khreishah, Abdallah
+AU  - Wu, Jie
+SN  - 0743-7315
+DO  - http://dx.doi.org/10.1016/j.jpdc.2012.01.014
+UR  - http://www.sciencedirect.com/science/article/pii/S0743731512000263
+KW  - Application dependent networking
+KW  - Sustainable high performance computing
+ER  - 
+
+TY  - JOUR
+T1  - WebPIE: A Web-scale Parallel Inference Engine using MapReduce
+JO  - Web Semantics: Science, Services and Agents on the World Wide Web
+VL  - 10
+IS  - 0
+SP  - 59
+EP  - 75
+PY  - 2012/1//
+T2  - Web-Scale Semantic Information Processing
+AU  - Urbani, Jacopo
+AU  - Kotoulas, Spyros
+AU  - Maassen, Jason
+AU  - Van Harmelen, Frank
+AU  - Bal, Henri
+SN  - 1570-8268
+DO  - http://dx.doi.org/10.1016/j.websem.2011.05.004
+UR  - http://www.sciencedirect.com/science/article/pii/S1570826811000345
+KW  - Semantic Web
+KW  - MapReduce
+KW  - High performance
+KW  - Distributed computing
+KW  - Reasoning
+ER  - 
+
+TY  - JOUR
+T1  - A Framework for Distributed Data-Parallel Execution in the Kepler Scientific Workflow System
+JO  - Procedia Computer Science
+VL  - 9
+IS  - 0
+SP  - 1620
+EP  - 1629
+PY  - 2012///
+T2  - Proceedings of the International Conference on Computational Science, ICCS 2012
+AU  - Wang, Jianwu
+AU  - Crawl, Daniel
+AU  - Altintas, Ilkay
+SN  - 1877-0509
+DO  - http://dx.doi.org/10.1016/j.procs.2012.04.178
+UR  - http://www.sciencedirect.com/science/article/pii/S1877050912002992
+KW  - Scientiﬁc workﬂows
+KW  - distributed data-parallel patterns
+KW  - data-intensive
+KW  - bioinformatics
+ER  - 
+
+TY  - JOUR
+T1  - Schema Evolution via Multi-Version Metadata in SaaS
+JO  - Procedia Engineering
+VL  - 29
+IS  - 0
+SP  - 1107
+EP  - 1112
+PY  - 2012///
+T2  - 2012 International Workshop on Information and Electronics Engineering
+AU  - Shengqi, Wu
+AU  - Shidong, Zhang
+AU  - Lanju, Kong
+SN  - 1877-7058
+DO  - http://dx.doi.org/10.1016/j.proeng.2012.01.096
+UR  - http://www.sciencedirect.com/science/article/pii/S1877705812001063
+KW  - Multi-Version metadata
+KW  - schema evolution
+KW  - SAAS
+ER  - 
+
+TY  - JOUR
+T1  - Optimizing the Trade-offs Between Cost and Performance in Scientific Computing
+JO  - Procedia Computer Science
+VL  - 9
+IS  - 0
+SP  - 498
+EP  - 507
+PY  - 2012///
+T2  - Proceedings of the International Conference on Computational Science, ICCS 2012
+AU  - Núñez, Alberto
+AU  - Andrés, César
+AU  - Merayomg, Mercedes G.
+SN  - 1877-0509
+DO  - http://dx.doi.org/10.1016/j.procs.2012.04.053
+UR  - http://www.sciencedirect.com/science/article/pii/S1877050912001743
+KW  - Scientific computing
+KW  - scientific clusters
+KW  - system performance evaluation
+ER  - 
+
+TY  - JOUR
+T1  - Improved Motif Detection in Large Sequence Sets with Random Sampling in a Kepler workflow
+JO  - Procedia Computer Science
+VL  - 9
+IS  - 0
+SP  - 1999
+EP  - 
+PY  - 2012///
+T2  - Proceedings of the International Conference on Computational Science, ICCS 2012
+AU  - Köhler, Sven
+AU  - Seitzer, Phillip
+AU  - Facciotti, Marc T.
+AU  - Ludäscher, Bertram
+SN  - 1877-0509
+DO  - http://dx.doi.org/10.1016/j.procs.2012.04.219
+UR  - http://www.sciencedirect.com/science/article/pii/S1877050912003407
+KW  - Scientiﬁc workﬂow
+KW  - motif detection
+KW  - Map-Reduce
+ER  - 
+
+TY  - JOUR
+T1  - P2P-MapReduce: Parallel data processing in dynamic Cloud environments
+JO  - Journal of Computer and System Sciences
+VL  - 78
+IS  - 5
+SP  - 1382
+EP  - 1402
+PY  - 2012/9//
+T2  - JCSS Special Issue: Cloud Computing 2011
+AU  - Marozzo, Fabrizio
+AU  - Talia, Domenico
+AU  - Trunfio, Paolo
+SN  - 0022-0000
+DO  - http://dx.doi.org/10.1016/j.jcss.2011.12.021
+UR  - http://www.sciencedirect.com/science/article/pii/S0022000011001668
+KW  - MapReduce
+KW  - Parallel processing
+KW  - Cloud computing
+KW  - Peer-to-peer computing
+KW  - P2P-MapReduce
+ER  - 
+
+TY  - JOUR
+T1  - Dimensioning Scientific Computing Systems to Improve Performance of Map-Reduce based Applications
+JO  - Procedia Computer Science
+VL  - 9
+IS  - 0
+SP  - 226
+EP  - 235
+PY  - 2012///
+T2  - Proceedings of the International Conference on Computational Science, ICCS 2012
+AU  - Castañè, Gabriel G.
+AU  - Núneñ, Alberto
+AU  - Filgueira, Rosa
+AU  - Carretero, Jesús
+SN  - 1877-0509
+DO  - http://dx.doi.org/10.1016/j.procs.2012.04.024
+UR  - http://www.sciencedirect.com/science/article/pii/S1877050912001457
+KW  - Map-Reduce applications
+KW  - scientific applications
+KW  - modeling and simulation
+KW  - scientific clusters
+KW  - performance prediction
+ER  - 
+
+TY  - JOUR
+T1  - Cloud Based Medical Image Exchange-Security Challenges
+JO  - Procedia Engineering
+VL  - 38
+IS  - 0
+SP  - 3454
+EP  - 3461
+PY  - 2012///
+T2  - INTERNATIONAL CONFERENCE ON MODELLING OPTIMIZATION AND COMPUTING
+AU  - Shini, S.G.
+AU  - Thomas, Tony
+AU  - Chithraranjan, K.
+SN  - 1877-7058
+DO  - http://dx.doi.org/10.1016/j.proeng.2012.06.399
+UR  - http://www.sciencedirect.com/science/article/pii/S1877705812023120
+KW  - Cloud Computing
+KW  - Cloud Based Medical Image Exchange
+KW  - Security
+KW  - Privacy
+ER  - 
+
+TY  - JOUR
+T1  - An efficient global/multi-local stress analysis of complicated engineering composite structures using multi-goal MapReduce
+JO  - Computational Materials Science
+VL  - 65
+IS  - 0
+SP  - 149
+EP  - 156
+PY  - 2012/12//
+T2  - 
+AU  - You, Tao
+AU  - Xu, Yingjie
+SN  - 0927-0256
+DO  - http://dx.doi.org/10.1016/j.commatsci.2012.07.015
+UR  - http://www.sciencedirect.com/science/article/pii/S0927025612004272
+KW  - Composite structure
+KW  - Stress analysis
+KW  - Global/local method
+KW  - Multi-goal MapReduce
+ER  - 
+
+TY  - JOUR
+T1  - Big data security
+JO  - Network Security
+VL  - 2012
+IS  - 7
+SP  - 5
+EP  - 8
+PY  - 2012/7//
+T2  - 
+AU  - Tankard, Colin
+SN  - 1353-4858
+DO  - http://dx.doi.org/10.1016/S1353-4858(12)70063-6
+UR  - http://www.sciencedirect.com/science/article/pii/S1353485812700636
+ER  - 
+
+TY  - JOUR
+T1  - MapReduce based Betweenness Approximation Engineering in Large Scale Graph
+JO  - Systems Engineering Procedia
+VL  - 5
+IS  - 0
+SP  - 162
+EP  - 167
+PY  - 2012///
+T2  - Safety and Emergency Systems Engineering
+AU  - Deng, Xiaolong
+AU  - Li, Yuxiao
+SN  - 2211-3819
+DO  - http://dx.doi.org/10.1016/j.sepro.2012.04.026
+UR  - http://www.sciencedirect.com/science/article/pii/S2211381912000690
+KW  - emergency case manageent engineering
+KW  - information management ;cloud computing
+KW  - Betweenness
+KW  - approximation computation
+ER  - 
+
+TY  - JOUR
+T1  - DATCP: deadline-aware TCP for the commoditized data centers
+JO  - The Journal of China Universities of Posts and Telecommunications
+VL  - 19
+IS  - 6
+SP  - 52
+EP  - 62
+PY  - 2012/12//
+T2  - 
+AU  - ZHANG, Peng
+AU  - WANG, Hong-bo
+AU  - LI, Yang-yang
+AU  - DONG, Jian-kang
+AU  - CHENG, Shi-duan
+SN  - 1005-8885
+DO  - http://dx.doi.org/10.1016/S1005-8885(11)60318-X
+UR  - http://www.sciencedirect.com/science/article/pii/S100588851160318X
+KW  - data center networks (DCN)
+KW  - deadline-aware transmission service
+KW  - TCP
+KW  - flow scheduling
+ER  - 
+
+TY  - JOUR
+T1  - The xDotGrid native, cross-platform, high-performance xDFS file transfer framework
+JO  - Computers & Electrical Engineering
+VL  - 38
+IS  - 6
+SP  - 1409
+EP  - 1432
+PY  - 2012/11//
+T2  - 
+AU  - Poshtkohi, Alireza
+AU  - Ghaznavi-Ghoushchi, M.B.
+SN  - 0045-7906
+DO  - http://dx.doi.org/10.1016/j.compeleceng.2012.04.007
+UR  - http://www.sciencedirect.com/science/article/pii/S0045790612000791
+ER  - 
+
+TY  - JOUR
+T1  - Massive RDF Data Complicated Query Optimization Based on MapReduce
+JO  - Physics Procedia
+VL  - 25
+IS  - 0
+SP  - 1414
+EP  - 1419
+PY  - 2012///
+T2  - International Conference on Solid State Devices and Materials Science, April 1-2, 2012, Macao
+AU  - Cheng, Jieru
+AU  - Wang, Wenjun
+AU  - Gao, Rui
+SN  - 1875-3892
+DO  - http://dx.doi.org/10.1016/j.phpro.2012.03.255
+UR  - http://www.sciencedirect.com/science/article/pii/S1875389212006712
+KW  - massive RDF data
+KW  - MapReduce
+KW  - query partition
+ER  - 
+
+TY  - JOUR
+T1  - Integrating open government data with stratosphere for more transparency
+JO  - Web Semantics: Science, Services and Agents on the World Wide Web
+VL  - 14
+IS  - 0
+SP  - 45
+EP  - 56
+PY  - 2012/7//
+T2  - Special Issue on Dealing with the Messiness of the Web of Data
+AU  - Heise, Arvid
+AU  - Naumann, Felix
+SN  - 1570-8268
+DO  - http://dx.doi.org/10.1016/j.websem.2012.02.002
+UR  - http://www.sciencedirect.com/science/article/pii/S1570826812000364
+KW  - Data integration
+KW  - Data cleansing
+KW  - Record linkage
+KW  - Data fusion
+KW  - Parallel query processing
+KW  - Map-reduce
+ER  - 
+
+TY  - JOUR
+T1  - Adaptive heterogeneous language support within a cloud runtime
+JO  - Future Generation Computer Systems
+VL  - 28
+IS  - 1
+SP  - 128
+EP  - 135
+PY  - 2012/1//
+T2  - 
+AU  - Ericson, Kathleen
+AU  - Pallickara, Shrideep
+SN  - 0167-739X
+DO  - http://dx.doi.org/10.1016/j.future.2011.05.012
+UR  - http://www.sciencedirect.com/science/article/pii/S0167739X1100094X
+KW  - Adaptive behavior
+KW  - Cloud runtime
+KW  - Granules
+KW  - Language bridges
+ER  - 
+
+TY  - JOUR
+T1  - Computationally efficient induction of classification rules with the PMCRI and J-PMCRI frameworks
+JO  - Knowledge-Based Systems
+VL  - 35
+IS  - 0
+SP  - 49
+EP  - 63
+PY  - 2012/11//
+T2  - 
+AU  - Stahl, Frederic
+AU  - Bramer, Max
+SN  - 0950-7051
+DO  - http://dx.doi.org/10.1016/j.knosys.2012.04.014
+UR  - http://www.sciencedirect.com/science/article/pii/S0950705112001104
+KW  - Parallel computing
+KW  - Parallel rule induction
+KW  - Modular classification rule induction
+KW  - PMCRI
+KW  - J-PMCRI
+KW  - Prism
+ER  - 
+
+TY  - JOUR
+T1  - Multi-Platform Mobile Thin Client Architecture in Cloud Environment
+JO  - Procedia Environmental Sciences
+VL  - 11, Part A
+IS  - 0
+SP  - 499
+EP  - 504
+PY  - 2011///
+T2  - 2011 2nd International Conference on Challenges in Environmental Science and Computer Engineering (CESCE 2011)
+AU  - Tang, Wei
+AU  - Lee, Jun-hyung
+AU  - Song, Biao
+AU  - Islam, Motaharul
+AU  - Na, Sangho
+AU  - Huh, Eui-Nam
+SN  - 1878-0296
+DO  - http://dx.doi.org/10.1016/j.proenv.2011.12.079
+UR  - http://www.sciencedirect.com/science/article/pii/S1878029611009029
+KW  - component
+KW  - Thin Client
+KW  - Cloud Computing
+KW  - VNC
+KW  - Virtual Desktop
+KW  - Distributed System
+ER  - 
+
+TY  - JOUR
+T1  - Building a Cloud Storage Service System
+JO  - Procedia Environmental Sciences
+VL  - 10, Part A
+IS  - 0
+SP  - 691
+EP  - 696
+PY  - 2011///
+T2  - 2011 3rd International Conference on Environmental Science and Information Application Technology ESIAT 2011
+AU  - Peng, Chengzhang
+AU  - Jiang, Zejun
+SN  - 1878-0296
+DO  - http://dx.doi.org/10.1016/j.proenv.2011.09.111
+UR  - http://www.sciencedirect.com/science/article/pii/S1878029611003069
+KW  - Cloud Storage Service
+KW  - Amazone's S3
+KW  - Distributed Database
+KW  - SOAP
+KW  - REST
+ER  - 
+
+TY  - JOUR
+T1  - An Intuitive Framework for Accessing Computing Clouds
+JO  - Procedia Computer Science
+VL  - 4
+IS  - 0
+SP  - 2049
+EP  - 2057
+PY  - 2011///
+T2  - Proceedings of the International Conference on Computational Science, ICCS 2011
+AU  - Tao, Jie
+AU  - Marten, Holger
+AU  - Kramer, David
+AU  - Karl, Wolfgang
+SN  - 1877-0509
+DO  - http://dx.doi.org/10.1016/j.procs.2011.04.224
+UR  - http://www.sciencedirect.com/science/article/pii/S1877050911002821
+KW  - Cloud Computing
+KW  - Graphical User Interface
+KW  - Grid Computing
+KW  - Interoperability
+ER  - 
+
+TY  - JOUR
+T1  - A MapReduce-based distributed SVM algorithm for automatic image annotation
+JO  - Computers & Mathematics with Applications
+VL  - 62
+IS  - 7
+SP  - 2801
+EP  - 2811
+PY  - 2011/10//
+T2  - Computers &amp; Mathematics in Natural Computation and Knowledge Discovery
+AU  - Alham, Nasullah Khalid
+AU  - Li, Maozhen
+AU  - Liu, Yang
+AU  - Hammoud, Suhel
+SN  - 0898-1221
+DO  - http://dx.doi.org/10.1016/j.camwa.2011.07.046
+UR  - http://www.sciencedirect.com/science/article/pii/S0898122111006171
+KW  - Automatic image annotation
+KW  - MapReduce framework
+KW  - Sequential minimal optimization
+KW  - Support vector machine
+ER  - 
+
+TY  - JOUR
+T1  - Integration of IoT and DRAGON-lab in cloud environment
+JO  - The Journal of China Universities of Posts and Telecommunications
+VL  - 19
+IS  - 2
+SP  - 87
+EP  - 91
+PY  - 2012/4//
+T2  - 
+AU  - FAN, Tong-rang
+AU  - GAO, Feng
+AU  - ZHANG, Xuan
+AU  - WANG, Xu
+SN  - 1005-8885
+DO  - http://dx.doi.org/10.1016/S1005-8885(11)60250-1
+UR  - http://www.sciencedirect.com/science/article/pii/S1005888511602501
+KW  - DRAGON-lab
+KW  - IoT
+KW  - cloud computing
+KW  - confederation network
+ER  - 
+
+TY  - JOUR
+T1  - FREP: Energy proportionality for disk storage using replication
+JO  - Journal of Parallel and Distributed Computing
+VL  - 72
+IS  - 8
+SP  - 960
+EP  - 974
+PY  - 2012/8//
+T2  - 
+AU  - Kim, Jinoh
+AU  - Rotem, Doron
+SN  - 0743-7315
+DO  - http://dx.doi.org/10.1016/j.jpdc.2012.03.010
+UR  - http://www.sciencedirect.com/science/article/pii/S0743731512000858
+KW  - Energy management
+KW  - Fractional replication
+KW  - Workload adaptation
+KW  - Disk storage
+ER  - 
+
+TY  - JOUR
+T1  - Online optimization for scheduling preemptable tasks on IaaS cloud systems
+JO  - Journal of Parallel and Distributed Computing
+VL  - 72
+IS  - 5
+SP  - 666
+EP  - 677
+PY  - 2012/5//
+T2  - 
+AU  - Li, Jiayin
+AU  - Qiu, Meikang
+AU  - Ming, Zhong
+AU  - Quan, Gang
+AU  - Qin, Xiao
+AU  - Gu, Zonghua
+SN  - 0743-7315
+DO  - http://dx.doi.org/10.1016/j.jpdc.2012.02.002
+UR  - http://www.sciencedirect.com/science/article/pii/S0743731512000366
+KW  - Cloud computing
+KW  - Online scheduling
+KW  - Feedback
+KW  - Preemptable scheduling
+ER  - 
+
+TY  - JOUR
+T1  - Why do commercial companies contribute to open source software?
+JO  - International Journal of Information Management
+VL  - 32
+IS  - 2
+SP  - 106
+EP  - 117
+PY  - 2012/4//
+T2  - 
+AU  - Andersen-Gott, Morten
+AU  - Ghinea, Gheorghita
+AU  - Bygstad, Bendik
+SN  - 0268-4012
+DO  - http://dx.doi.org/10.1016/j.ijinfomgt.2011.10.003
+UR  - http://www.sciencedirect.com/science/article/pii/S026840121100123X
+KW  - Open source software
+KW  - Commercial
+KW  - Drivers
+ER  - 
+
+TY  - JOUR
+T1  - Cloud-DLS: Dynamic trusted scheduling for Cloud computing
+JO  - Expert Systems with Applications
+VL  - 39
+IS  - 3
+SP  - 2321
+EP  - 2329
+PY  - 2012/2/15/
+T2  - 
+AU  - Wang, Wei
+AU  - Zeng, Guosun
+AU  - Tang, Daizhong
+AU  - Yao, Jing
+SN  - 0957-4174
+DO  - http://dx.doi.org/10.1016/j.eswa.2011.08.048
+UR  - http://www.sciencedirect.com/science/article/pii/S0957417411011596
+KW  - Cloud computing
+KW  - Bayesian
+KW  - Cognitive model
+KW  - Scheduling
+KW  - Trust
+ER  - 
+
+TY  - JOUR
+T1  - A Scalable Infrastructure for Online Performance Analysis on CFD Application
+JO  - Chinese Journal of Aeronautics
+VL  - 25
+IS  - 4
+SP  - 546
+EP  - 558
+PY  - 2012/8//
+T2  - 
+AU  - HU, Kai
+AU  - DING, Yi
+AU  - ZHANG, Xinyu
+AU  - JIANG, Shu
+SN  - 1000-9361
+DO  - http://dx.doi.org/10.1016/S1000-9361(11)60418-4
+UR  - http://www.sciencedirect.com/science/article/pii/S1000936111604184
+KW  - computational aerodynamics
+KW  - computational fluid dynamics
+KW  - scalability
+KW  - online analysis
+KW  - data transmission
+KW  - data storage
+ER  - 
+
+TY  - JOUR
+T1  - Variable-sized map and locality-aware reduce on public-resource grids
+JO  - Future Generation Computer Systems
+VL  - 27
+IS  - 6
+SP  - 843
+EP  - 849
+PY  - 2011/6//
+T2  - 
+AU  - Su, Yen-Liang
+AU  - Chen, Po-Cheng
+AU  - Chang, Jyh-Biau
+AU  - Shieh, Ce-Kuen
+SN  - 0167-739X
+DO  - http://dx.doi.org/10.1016/j.future.2010.09.001
+UR  - http://www.sciencedirect.com/science/article/pii/S0167739X10001718
+KW  - MapReduce
+KW  - Grid computing
+KW  - Load balance
+KW  - Scheduling
+ER  - 
+
+TY  - JOUR
+T1  - Utilization-based pricing for power management and profit optimization in data centers
+JO  - Journal of Parallel and Distributed Computing
+VL  - 72
+IS  - 1
+SP  - 27
+EP  - 34
+PY  - 2012/1//
+T2  - 
+AU  - Zheng, Qin
+AU  - Veeravalli, Bharadwaj
+SN  - 0743-7315
+DO  - http://dx.doi.org/10.1016/j.jpdc.2011.09.001
+UR  - http://www.sciencedirect.com/science/article/pii/S0743731511001730
+KW  - Utilization
+KW  - Pricing
+KW  - Load balancing
+KW  - Revenue
+KW  - Power
+KW  - Cost
+ER  - 
+
+TY  - JOUR
+T1  - Brown Dwarf: A fully-distributed, fault-tolerant data warehousing system
+JO  - Journal of Parallel and Distributed Computing
+VL  - 71
+IS  - 11
+SP  - 1434
+EP  - 1446
+PY  - 2011/11//
+T2  - 
+AU  - Doka, Katerina
+AU  - Tsoumakos, Dimitrios
+AU  - Koziris, Nectarios
+SN  - 0743-7315
+DO  - http://dx.doi.org/10.1016/j.jpdc.2011.07.008
+UR  - http://www.sciencedirect.com/science/article/pii/S0743731511001432
+KW  - Peer-to-Peer
+KW  - Data warehousing
+KW  - Data cube
+ER  - 
+
+TY  - JOUR
+T1  - A high performance scientific cloud computing environment for materials simulations
+JO  - Computer Physics Communications
+VL  - 183
+IS  - 9
+SP  - 1911
+EP  - 1919
+PY  - 2012/9//
+T2  - 
+AU  - Jorissen, K.
+AU  - Vila, F.D.
+AU  - Rehr, J.J.
+SN  - 0010-4655
+DO  - http://dx.doi.org/10.1016/j.cpc.2012.04.010
+UR  - http://www.sciencedirect.com/science/article/pii/S001046551200149X
+KW  - Cloud computing
+KW  - Scientific computation
+KW  - High performance computing
+KW  - Condensed matter physics
+ER  - 
+
+TY  - JOUR
+T1  - An enhanced ACO algorithm to select features for text categorization and its parallelization
+JO  - Expert Systems with Applications
+VL  - 39
+IS  - 5
+SP  - 5861
+EP  - 5871
+PY  - 2012/4//
+T2  - 
+AU  - Janaki Meena, M.
+AU  - Chandran, K.R.
+AU  - Karthik, A.
+AU  - Vijay Samuel, A.
+SN  - 0957-4174
+DO  - http://dx.doi.org/10.1016/j.eswa.2011.11.081
+UR  - http://www.sciencedirect.com/science/article/pii/S0957417411016277
+KW  - Bag of Words
+KW  - Metaheuristic algorithms
+KW  - Ant Colony Optimization
+KW  - Heuristic information
+KW  - Local search
+KW  - CHIR
+KW  - χ2
+KW  - Parallel algorithm
+KW  - MapReduce
+KW  - Distributed environment
+ER  - 
+
+TY  - JOUR
+T1  - Infrastructures and tools for multiagent systems for the new generation of distributed systems
+JO  - Engineering Applications of Artificial Intelligence
+VL  - 24
+IS  - 7
+SP  - 1095
+EP  - 1097
+PY  - 2011/10//
+T2  - Infrastructures and Tools for Multiagent Systems
+AU  - Garcia-Fornes, Ana
+AU  - Hübner, Jomi F.
+AU  - Omicini, Andrea
+AU  - Rodriguez-Aguilar, Juan A.
+AU  - Botti, Vicent
+SN  - 0952-1976
+DO  - http://dx.doi.org/10.1016/j.engappai.2011.06.012
+UR  - http://www.sciencedirect.com/science/article/pii/S0952197611001205
+KW  - Multiagent systems
+KW  - Infrastructures
+KW  - Tools
+KW  - Agent platforms
+KW  - Management
+KW  - Security
+KW  - Simulation
+KW  - Industry
+ER  - 
+
+TY  - JOUR
+T1  - Giving users an edge: A flexible Cloud model and its application for multimedia
+JO  - Future Generation Computer Systems
+VL  - 28
+IS  - 6
+SP  - 823
+EP  - 832
+PY  - 2012/6//
+T2  - Including Special sections SS: Volunteer Computing and Desktop Grids and SS: Mobile Ubiquitous Computing
+AU  - Islam, Salekul
+AU  - Grégoire, Jean-Charles
+SN  - 0167-739X
+DO  - http://dx.doi.org/10.1016/j.future.2012.01.002
+UR  - http://www.sciencedirect.com/science/article/pii/S0167739X12000143
+KW  - Cloud computing
+KW  - Edge Cloud
+KW  - Desktop virtualization
+KW  - Media processing
+KW  - Transcoding
+KW  - Jitter analysis
+ER  - 
+
+TY  - JOUR
+T1  - Parallel calculation of multi-electrode array correlation networks
+JO  - Journal of Neuroscience Methods
+VL  - 184
+IS  - 2
+SP  - 357
+EP  - 364
+PY  - 2009/11/15/
+T2  - 
+AU  - Ribeiro, Pedro
+AU  - Simonotto, Jennifer
+AU  - Kaiser, Marcus
+AU  - Silva, Fernando
+SN  - 0165-0270
+DO  - http://dx.doi.org/10.1016/j.jneumeth.2009.08.001
+UR  - http://www.sciencedirect.com/science/article/pii/S0165027009004336
+KW  - Correlation networks
+KW  - Parallel computing
+KW  - Condor
+KW  - Neuroimaging
+KW  - Optical imaging
+KW  - Time series analysis
+ER  - 
+
+TY  - JOUR
+T1  - Improving performance of adaptive component-based dataflow middleware
+JO  - Parallel Computing
+VL  - 38
+IS  - 6–7
+SP  - 289
+EP  - 309
+PY  - 2012/6//
+Y2  - 2012/7//
+T2  - 
+AU  - Hartley, Timothy D.R.
+AU  - Saule, Erik
+AU  - Çatalyürek, Ümit V.
+SN  - 0167-8191
+DO  - http://dx.doi.org/10.1016/j.parco.2012.03.005
+UR  - http://www.sciencedirect.com/science/article/pii/S0167819112000221
+KW  - Distributed computing
+KW  - Runtime system middleware
+KW  - Heterogeneous computing
+ER  - 
+
+TY  - JOUR
+T1  - Semantically enhanced Information Retrieval: An ontology-based approach
+JO  - Web Semantics: Science, Services and Agents on the World Wide Web
+VL  - 9
+IS  - 4
+SP  - 434
+EP  - 452
+PY  - 2011/12//
+T2  - JWS special issue on Semantic Search
+AU  - Fernández, Miriam
+AU  - Cantador, Iván
+AU  - López, Vanesa
+AU  - Vallet, David
+AU  - Castells, Pablo
+AU  - Motta, Enrico
+SN  - 1570-8268
+DO  - http://dx.doi.org/10.1016/j.websem.2010.11.003
+UR  - http://www.sciencedirect.com/science/article/pii/S1570826810000910
+KW  - Semantic Web
+KW  - Information Retrieval
+KW  - Semantic search
+ER  - 
+
+TY  - JOUR
+T1  - A hybrid content-based and item-based collaborative filtering approach to recommend TV programs enhanced with singular value decomposition
+JO  - Information Sciences
+VL  - 180
+IS  - 22
+SP  - 4290
+EP  - 4311
+PY  - 2010/11/15/
+T2  - 
+AU  - Barragáns-Martínez, Ana Belén
+AU  - Costa-Montenegro, Enrique
+AU  - Burguillo, Juan C.
+AU  - Rey-López, Marta
+AU  - Mikic-Fonte, Fernando A.
+AU  - Peleteiro, Ana
+SN  - 0020-0255
+DO  - http://dx.doi.org/10.1016/j.ins.2010.07.024
+UR  - http://www.sciencedirect.com/science/article/pii/S0020025510003427
+KW  - Recommender systems
+KW  - Contents personalization
+KW  - Collaborative filtering
+KW  - SVD
+KW  - Web 2.0
+ER  - 
+
+TY  - JOUR
+T1  - A parallel incremental extreme SVM classifier
+JO  - Neurocomputing
+VL  - 74
+IS  - 16
+SP  - 2532
+EP  - 2540
+PY  - 2011/9//
+T2  - Advances in Extreme Learning Machine: Theory and Applications Biological Inspired Systems. Computational and Ambient Intelligence Selected papers of the 10th International Work-Conference on Artificial Neural Networks (IWANN2009)
+AU  - He, Qing
+AU  - Du, Changying
+AU  - Wang, Qun
+AU  - Zhuang, Fuzhen
+AU  - Shi, Zhongzhi
+SN  - 0925-2312
+DO  - http://dx.doi.org/10.1016/j.neucom.2010.11.036
+UR  - http://www.sciencedirect.com/science/article/pii/S0925231211002566
+KW  - Parallel extreme SVM (PESVM)
+KW  - MapReduce
+KW  - Incremental extreme SVM (IESVM)
+KW  - Parallel incremental extreme SVM (PIESVM)
+ER  - 
+
+TY  - JOUR
+T1  - Suspending, migrating and resuming HPC virtual clusters
+JO  - Future Generation Computer Systems
+VL  - 26
+IS  - 8
+SP  - 1063
+EP  - 1072
+PY  - 2010/10//
+T2  - 
+AU  - Anedda, Paolo
+AU  - Leo, Simone
+AU  - Manca, Simone
+AU  - Gaggero, Massimo
+AU  - Zanetti, Gianluigi
+SN  - 0167-739X
+DO  - http://dx.doi.org/10.1016/j.future.2010.05.007
+UR  - http://www.sciencedirect.com/science/article/pii/S0167739X10000877
+KW  - Virtual cluster
+KW  - Data-driven application
+KW  - HPC
+ER  - 
+
+TY  - JOUR
+T1  - A data placement strategy in scientific cloud workflows
+JO  - Future Generation Computer Systems
+VL  - 26
+IS  - 8
+SP  - 1200
+EP  - 1214
+PY  - 2010/10//
+T2  - 
+AU  - Yuan, Dong
+AU  - Yang, Yun
+AU  - Liu, Xiao
+AU  - Chen, Jinjun
+SN  - 0167-739X
+DO  - http://dx.doi.org/10.1016/j.future.2010.02.004
+UR  - http://www.sciencedirect.com/science/article/pii/S0167739X10000208
+KW  - Data management
+KW  - Scientific workflow
+KW  - Cloud computing
+ER  - 
+
+TY  - JOUR
+T1  - Log analyzer programs for distance education systems
+JO  - Procedia - Social and Behavioral Sciences
+VL  - 9
+IS  - 0
+SP  - 1208
+EP  - 1213
+PY  - 2010///
+T2  - World Conference on Learning, Teaching and Administration Papers
+AU  - Güneş, İhsan
+AU  - Akçay, Muammer
+AU  - Dinçer, Gökhan Deniz
+SN  - 1877-0428
+DO  - http://dx.doi.org/10.1016/j.sbspro.2010.12.308
+UR  - http://www.sciencedirect.com/science/article/pii/S1877042810024134
+KW  - Web log
+KW  - log analysis
+KW  - distance education
+KW  - user profile ;
+ER  - 
+
+TY  - JOUR
+T1  - APHID: An architecture for private, high-performance integrated data mining
+JO  - Future Generation Computer Systems
+VL  - 26
+IS  - 7
+SP  - 891
+EP  - 904
+PY  - 2010/7//
+T2  - 
+AU  - Secretan, Jimmy
+AU  - Georgiopoulos, Michael
+AU  - Koufakou, Anna
+AU  - Cardona, Kel
+SN  - 0167-739X
+DO  - http://dx.doi.org/10.1016/j.future.2010.02.017
+UR  - http://www.sciencedirect.com/science/article/pii/S0167739X10000336
+KW  - Data mining
+KW  - Privacy
+KW  - Distributed architectures
+ER  - 
+
+TY  - JOUR
+T1  - Map, reduce and mapreduce, the skeleton way
+JO  - Procedia Computer Science
+VL  - 1
+IS  - 1
+SP  - 2095
+EP  - 2103
+PY  - 2010/5//
+T2  - ICCS 2010
+AU  - Buono, D.
+AU  - Danelutto, M.
+AU  - Lametti, S.
+SN  - 1877-0509
+DO  - http://dx.doi.org/10.1016/j.procs.2010.04.234
+UR  - http://www.sciencedirect.com/science/article/pii/S1877050910002358
+KW  - Algorithmic skeletons
+KW  - Map
+KW  - Reduce
+KW  - List theory
+KW  - Homomorphisms
+ER  - 
+
+TY  - JOUR
+T1  - VDB-MR: MapReduce-based distributed data integration using virtual database
+JO  - Future Generation Computer Systems
+VL  - 26
+IS  - 8
+SP  - 1418
+EP  - 1425
+PY  - 2010/10//
+T2  - 
+AU  - Yuan, Yulai
+AU  - Wu, Yongwei
+AU  - Feng, Xiao
+AU  - Li, Jing
+AU  - Yang, Guangwen
+AU  - Zheng, Weimin
+SN  - 0167-739X
+DO  - http://dx.doi.org/10.1016/j.future.2010.04.001
+UR  - http://www.sciencedirect.com/science/article/pii/S0167739X10000658
+KW  - MapReduce
+KW  - Virtual database
+KW  - Data integration
+KW  - Heterogeneous resources
+KW  - Query execution
+ER  - 
+
+TY  - JOUR
+T1  - A novel statistical time-series pattern based interval forecasting strategy for activity durations in workflow systems
+JO  - Journal of Systems and Software
+VL  - 84
+IS  - 3
+SP  - 354
+EP  - 376
+PY  - 2011/3//
+T2  - 
+AU  - Liu, Xiao
+AU  - Ni, Zhiwei
+AU  - Yuan, Dong
+AU  - Jiang, Yuanchun
+AU  - Wu, Zhangjun
+AU  - Chen, Jinjun
+AU  - Yang, Yun
+SN  - 0164-1212
+DO  - http://dx.doi.org/10.1016/j.jss.2010.11.927
+UR  - http://www.sciencedirect.com/science/article/pii/S0164121210003262
+KW  - Workflow system
+KW  - Activity duration
+KW  - Interval forecasting
+KW  - Statistical time series
+KW  - Time-series patterns
+ER  - 
+
+TY  - JOUR
+T1  - Design and implementation of live image file feeding to dome theaters
+JO  - Future Generation Computer Systems
+VL  - 27
+IS  - 7
+SP  - 944
+EP  - 951
+PY  - 2011/7//
+T2  - CineGrid: Super high definition media over optical networks
+AU  - Kaneko, Kunitake
+AU  - Ohta, Naohisa
+SN  - 0167-739X
+DO  - http://dx.doi.org/10.1016/j.future.2010.12.014
+UR  - http://www.sciencedirect.com/science/article/pii/S0167739X1000275X
+KW  - Component
+KW  - Live transmission
+KW  - Dome theater
+KW  - File transfer
+KW  - Live image file feeding
+KW  - KFS
+ER  - 
+
+TY  - JOUR
+T1  - Compute and storage clouds using wide area high performance networks
+JO  - Future Generation Computer Systems
+VL  - 25
+IS  - 2
+SP  - 179
+EP  - 183
+PY  - 2009/2//
+T2  - 
+AU  - Grossman, Robert L.
+AU  - Gu, Yunhong
+AU  - Sabala, Michael
+AU  - Zhang, Wanzhi
+SN  - 0167-739X
+DO  - http://dx.doi.org/10.1016/j.future.2008.07.009
+UR  - http://www.sciencedirect.com/science/article/pii/S0167739X08001155
+KW  - Cloud computing
+KW  - High performance computing
+KW  - High performance networking
+KW  - Distributed computing
+KW  - Data mining
+ER  - 
+
+TY  - JOUR
+T1  - Online querying of d-dimensional hierarchies
+JO  - Journal of Parallel and Distributed Computing
+VL  - 71
+IS  - 3
+SP  - 424
+EP  - 437
+PY  - 2011/3//
+T2  - 
+AU  - Doka, Katerina
+AU  - Tsoumakos, Dimitrios
+AU  - Koziris, Nectarios
+SN  - 0743-7315
+DO  - http://dx.doi.org/10.1016/j.jpdc.2010.10.005
+UR  - http://www.sciencedirect.com/science/article/pii/S0743731510002030
+KW  - Peer-to-Peer
+KW  - Distributed hash tables
+KW  - Concept hierarchies
+KW  - Data warehousing
+ER  - 
+
+TY  - JOUR
+T1  - Sector: A high performance wide area community data storage and sharing system
+JO  - Future Generation Computer Systems
+VL  - 26
+IS  - 5
+SP  - 720
+EP  - 728
+PY  - 2010/5//
+T2  - 
+AU  - Gu, Yunhong
+AU  - Grossman, Robert L.
+SN  - 0167-739X
+DO  - http://dx.doi.org/10.1016/j.future.2009.05.009
+UR  - http://www.sciencedirect.com/science/article/pii/S0167739X09000569
+KW  - Wide area networks
+KW  - Data storage
+KW  - Data sharing
+KW  - Peer to peer
+ER  - 
+
+TY  - JOUR
+T1  - Processing high data rate streams in System S
+JO  - Journal of Parallel and Distributed Computing
+VL  - 71
+IS  - 2
+SP  - 145
+EP  - 156
+PY  - 2011/2//
+T2  - Data Intensive Computing
+AU  - Andrade, H.
+AU  - Gedik, B.
+AU  - Wu, K.-L.
+AU  - Yu, P.S.
+SN  - 0743-7315
+DO  - http://dx.doi.org/10.1016/j.jpdc.2010.08.007
+UR  - http://www.sciencedirect.com/science/article/pii/S074373151000167X
+KW  - Data stream processing
+KW  - Scale-up strategies
+KW  - Workload balancing
+KW  - Split/aggregate/join architectural pattern
+ER  - 
+
+TY  - JOUR
+T1  - On-demand minimum cost benchmarking for intermediate dataset storage in scientific cloud workflow systems
+JO  - Journal of Parallel and Distributed Computing
+VL  - 71
+IS  - 2
+SP  - 316
+EP  - 332
+PY  - 2011/2//
+T2  - Data Intensive Computing
+AU  - Yuan, Dong
+AU  - Yang, Yun
+AU  - Liu, Xiao
+AU  - Chen, Jinjun
+SN  - 0743-7315
+DO  - http://dx.doi.org/10.1016/j.jpdc.2010.09.003
+UR  - http://www.sciencedirect.com/science/article/pii/S0743731510001838
+KW  - Dataset storage
+KW  - Scientific workflow
+KW  - Cloud computing
+KW  - Cost benchmarking
+ER  - 
+
+TY  - JOUR
+T1  - Cloud computing and emerging IT platforms: Vision, hype, and reality for delivering computing as the 5th utility
+JO  - Future Generation Computer Systems
+VL  - 25
+IS  - 6
+SP  - 599
+EP  - 616
+PY  - 2009/6//
+T2  - 
+AU  - Buyya, Rajkumar
+AU  - Yeo, Chee Shin
+AU  - Venugopal, Srikumar
+AU  - Broberg, James
+AU  - Brandic, Ivona
+SN  - 0167-739X
+DO  - http://dx.doi.org/10.1016/j.future.2008.12.001
+UR  - http://www.sciencedirect.com/science/article/pii/S0167739X08001957
+KW  - Cloud computing
+KW  - Data Centers
+KW  - Utility computing
+KW  - Virtualization
+KW  - Market-oriented resource allocation
+ER  - 
+
+TY  - JOUR
+T1  - Cloud computing — The business perspective
+JO  - Decision Support Systems
+VL  - 51
+IS  - 1
+SP  - 176
+EP  - 189
+PY  - 2011/4//
+T2  - 
+AU  - Marston, Sean
+AU  - Li, Zhi
+AU  - Bandyopadhyay, Subhajyoti
+AU  - Zhang, Juheng
+AU  - Ghalsasi, Anand
+SN  - 0167-9236
+DO  - http://dx.doi.org/10.1016/j.dss.2010.12.006
+UR  - http://www.sciencedirect.com/science/article/pii/S0167923610002393
+KW  - Cloud computing
+KW  - Virtualization
+KW  - Software as a service
+KW  - Platform as a service
+KW  - Infrastructure as a service
+KW  - On-demand computing
+KW  - Cloud computing regulation
+ER  - 
+
+TY  - JOUR
+T1  - Modeling the evolution of associated data
+JO  - Data & Knowledge Engineering
+VL  - 69
+IS  - 9
+SP  - 965
+EP  - 978
+PY  - 2010/9//
+T2  - 
+AU  - Tang, Jie
+AU  - Zhang, Jing
+SN  - 0169-023X
+DO  - http://dx.doi.org/10.1016/j.datak.2010.03.009
+UR  - http://www.sciencedirect.com/science/article/pii/S0169023X10000492
+KW  - Topic model
+KW  - Probabilistic model
+KW  - Evolution analysis
+KW  - Knowledge discovery
+ER  - 
+
+TY  - JOUR
+T1  - Minimum-cost delegation in service composition
+JO  - Theoretical Computer Science
+VL  - 409
+IS  - 3
+SP  - 417
+EP  - 431
+PY  - 2008/12/28/
+T2  - 
+AU  - Gerede, Cagdas E.
+AU  - Ibarra, Oscar H.
+AU  - Ravikumar, Bala
+AU  - Su, Jianwen
+SN  - 0304-3975
+DO  - http://dx.doi.org/10.1016/j.tcs.2008.08.040
+UR  - http://www.sciencedirect.com/science/article/pii/S0304397508006294
+KW  - Finite state automata
+KW  - Service modeling
+KW  - Automated service composition
+ER  - 
+
+TY  - JOUR
+T1  - A Document Clustering and Ranking System for Exploring MEDLINE Citations
+JO  - Journal of the American Medical Informatics Association
+VL  - 14
+IS  - 5
+SP  - 651
+EP  - 661
+PY  - 2007/9//
+Y2  - 2007/10//
+T2  - 
+AU  - Lin, Yongjing
+AU  - Li, Wenyuan
+AU  - Chen, Keke
+AU  - Liu, Ying
+SN  - 1067-5027
+DO  - http://dx.doi.org/10.1197/jamia.M2215
+UR  - http://www.sciencedirect.com/science/article/pii/S1067502707001685
+ER  - 
+
+TY  - JOUR
+T1  - Early Cloud Experiences with the Kepler Scientific Workflow System
+JO  - Procedia Computer Science
+VL  - 9
+IS  - 0
+SP  - 1630
+EP  - 1634
+PY  - 2012///
+T2  - Proceedings of the International Conference on Computational Science, ICCS 2012
+AU  - Wang, Jianwu
+AU  - Altintas, Ilkay
+SN  - 1877-0509
+DO  - http://dx.doi.org/10.1016/j.procs.2012.04.179
+UR  - http://www.sciencedirect.com/science/article/pii/S1877050912003006
+KW  - Scientiﬁc workﬂows
+KW  - data-intensive
+KW  - bioinformatics
+KW  - Amazon EC2
+KW  - Cloud computing
+ER  - 
+
+TY  - JOUR
+T1  - A middleware framework for scalable management of linked streams
+JO  - Web Semantics: Science, Services and Agents on the World Wide Web
+VL  - 16
+IS  - 0
+SP  - 42
+EP  - 51
+PY  - 2012/11//
+T2  - The Semantic Web Challenge 2011
+AU  - Le-Phuoc, Danh
+AU  - Nguyen-Mau, Hoan Quoc
+AU  - Parreira, Josiane Xavier
+AU  - Hauswirth, Manfred
+SN  - 1570-8268
+DO  - http://dx.doi.org/10.1016/j.websem.2012.06.003
+UR  - http://www.sciencedirect.com/science/article/pii/S1570826812000728
+KW  - Sensors
+KW  - Linked stream data
+KW  - Linked data
+KW  - Semantic web
+KW  - Middleware
+ER  - 
+
+TY  - JOUR
+T1  - Using agents to parallelize a medical reasoning system based on ontologies and description logics as an application case
+JO  - Expert Systems with Applications
+VL  - 39
+IS  - 18
+SP  - 13085
+EP  - 13092
+PY  - 2012/12/15/
+T2  - 
+AU  - Rodríguez-González, Alejandro
+AU  - Torres-Niño, Javier
+AU  - Hernández-Chan, Gandhi
+AU  - Jiménez-Domingo, Enrique
+AU  - Alvarez-Rodríguez, Jose Maria
+SN  - 0957-4174
+DO  - http://dx.doi.org/10.1016/j.eswa.2012.05.093
+UR  - http://www.sciencedirect.com/science/article/pii/S0957417412008093
+KW  - Parallel
+KW  - Distributed
+KW  - Reasoning
+KW  - Expert system
+KW  - Ontologies
+KW  - Semantic web
+KW  - Medical diagnosis
+ER  - 
+
+TY  - JOUR
+T1  - Mobile Sensor Data Classiﬁcation for Human Activity Recognition using MapReduce on Cloud
+JO  - Procedia Computer Science
+VL  - 10
+IS  - 0
+SP  - 585
+EP  - 592
+PY  - 2012///
+T2  - ANT 2012 and MobiWIS 2012
+AU  - Paniagua, Carlos
+AU  - Flores, Huber
+AU  - Srirama, Satish Narayana
+SN  - 1877-0509
+DO  - http://dx.doi.org/10.1016/j.procs.2012.06.075
+UR  - http://www.sciencedirect.com/science/article/pii/S1877050912004322
+KW  - Mobile cloud
+KW  - MapReduce
+KW  - Sensor data
+KW  - Accelerometer
+KW  - Middleware
+KW  - Classiﬁcation algorithm
+ER  - 
+
+TY  - JOUR
+T1  - Research on Key Technologies of Cloud Computing
+JO  - Physics Procedia
+VL  - 33
+IS  - 0
+SP  - 1791
+EP  - 1797
+PY  - 2012///
+T2  - 2012 International Conference on Medical Physics and Biomedical Engineering (ICMPBE2012)
+AU  - Zhang, Shufen
+AU  - Yan, Hongcan
+AU  - Chen, Xuebin
+SN  - 1875-3892
+DO  - http://dx.doi.org/10.1016/j.phpro.2012.05.286
+UR  - http://www.sciencedirect.com/science/article/pii/S1875389212015994
+KW  - cloud computing
+KW  - virtualization
+KW  - MapReduce
+KW  - BigTable
+ER  - 
+
+TY  - JOUR
+T1  - Experiences in building a Grid-based platform to serve Earth observation training activities
+JO  - Computer Standards & Interfaces
+VL  - 34
+IS  - 6
+SP  - 493
+EP  - 508
+PY  - 2012/11//
+T2  - Intelligent DAQ's, Advanced Computing and Interfacing Systems
+AU  - Petcu, Dana
+AU  - Panica, Silviu
+AU  - Frîncu, Marc
+AU  - Neagul, Marian
+AU  - Zaharie, Daniela
+AU  - Macariu, Georgiana
+AU  - Gorgan, Dorian
+AU  - Ştefănuţ, Teodor
+SN  - 0920-5489
+DO  - http://dx.doi.org/10.1016/j.csi.2011.10.010
+UR  - http://www.sciencedirect.com/science/article/pii/S0920548911001115
+KW  - Distributed systems
+KW  - Image processing software
+KW  - Earth and atmospheric sciences
+KW  - Computer uses in education
+ER  - 
+
+TY  - JOUR
+T1  - A combined approach to ensure data security in cloud computing
+JO  - Journal of Network and Computer Applications
+VL  - 35
+IS  - 6
+SP  - 1831
+EP  - 1838
+PY  - 2012/11//
+T2  - 
+AU  - Sood, Sandeep K.
+SN  - 1084-8045
+DO  - http://dx.doi.org/10.1016/j.jnca.2012.07.007
+UR  - http://www.sciencedirect.com/science/article/pii/S1084804512001592
+KW  - Cloud security
+KW  - Encryption
+KW  - Message authentication code
+KW  - Virtualization
+KW  - Secured socket layer
+ER  - 
+
+TY  - JOUR
+T1  - Inferring the semantic properties of sentences by mining syntactic parse trees
+JO  - Data & Knowledge Engineering
+VL  - 81–82
+IS  - 0
+SP  - 21
+EP  - 45
+PY  - 2012/11//
+Y2  - 2012/12//
+T2  - 
+AU  - Galitsky, Boris A.
+AU  - de la Rosa, Josep Lluis
+AU  - Dobrocsi, Gábor
+SN  - 0169-023X
+DO  - http://dx.doi.org/10.1016/j.datak.2012.07.003
+UR  - http://www.sciencedirect.com/science/article/pii/S0169023X12000699
+KW  - Machine learning
+KW  - Constituency parse tree
+KW  - Search re-ranking
+ER  - 
+
+TY  - JOUR
+T1  - Preface to Part III Adaptive Big Data Analytics
+JO  - Procedia Computer Science
+VL  - 12
+IS  - 0
+SP  - 211
+EP  - 
+PY  - 2012///
+T2  - Complex Adaptive Systems 2012
+AU  - Sato-Ilic, Mika
+SN  - 1877-0509
+DO  - http://dx.doi.org/10.1016/j.procs.2012.09.057
+UR  - http://www.sciencedirect.com/science/article/pii/S1877050912006485
+ER  - 
+
+TY  - JOUR
+T1  - A business-oriented Cloud federation model for real-time applications
+JO  - Future Generation Computer Systems
+VL  - 28
+IS  - 8
+SP  - 1158
+EP  - 1167
+PY  - 2012/10//
+T2  - Including Special sections SS: Trusting Software Behavior and SS: Economics of Computing Services
+AU  - Yang, Xiaoyu
+AU  - Nasser, Bassem
+AU  - Surridge, Mike
+AU  - Middleton, Stuart
+SN  - 0167-739X
+DO  - http://dx.doi.org/10.1016/j.future.2012.02.005
+UR  - http://www.sciencedirect.com/science/article/pii/S0167739X12000386
+KW  - Federated Cloud computing
+KW  - Cloud federation
+KW  - Cloud computing
+KW  - Service Level Agreement (SLA)
+KW  - On-demand resource provisioning
+ER  - 
+
+TY  - JOUR
+T1  - Numerical simulations of the dark universe: State of the art and the next decade
+JO  - Physics of the Dark Universe
+VL  - 1
+IS  - 1–2
+SP  - 50
+EP  - 93
+PY  - 2012/11//
+T2  - Next Decade in Dark Matter and Dark Energy Next Decade in Dark Matter and Dark Energy
+AU  - Kuhlen, Michael
+AU  - Vogelsberger, Mark
+AU  - Angulo, Raul
+SN  - 2212-6864
+DO  - http://dx.doi.org/10.1016/j.dark.2012.10.002
+UR  - http://www.sciencedirect.com/science/article/pii/S2212686412000064
+KW  - Numerical simulations
+KW  - Dark matter
+KW  - Dark energy
+KW  - Cosmology
+KW  - Structure formation
+ER  - 
+
+TY  - JOUR
+T1  - Security Issues of Media Sharing in Social Cloud
+JO  - Procedia Engineering
+VL  - 38
+IS  - 0
+SP  - 3806
+EP  - 3815
+PY  - 2012///
+T2  - INTERNATIONAL CONFERENCE ON MODELLING OPTIMIZATION AND COMPUTING
+AU  - Gayathri, K.S.
+AU  - Thomas, Tony
+AU  - Jayasudha, J.
+SN  - 1877-7058
+DO  - http://dx.doi.org/10.1016/j.proeng.2012.06.436
+UR  - http://www.sciencedirect.com/science/article/pii/S1877705812023491
+KW  - Social Media
+KW  - Content Sharing
+KW  - Social TV
+KW  - Copyright infringements
+KW  - Fingerprinting
+KW  - DRM
+ER  - 
+
+TY  - JOUR
+T1  - Affordable Supercomputing for Data Mining Applications
+JO  - Procedia Computer Science
+VL  - 7
+IS  - 0
+SP  - 136
+EP  - 138
+PY  - 2011///
+T2  - Proceedings of the 2nd European Future Technologies Conference and Exhibition 2011 (FET 11)
+AU  - Benczúr, András A.
+SN  - 1877-0509
+DO  - http://dx.doi.org/10.1016/j.procs.2011.09.009
+UR  - http://www.sciencedirect.com/science/article/pii/S1877050911005692
+ER  - 
+
+TY  - JOUR
+T1  - Towards efficient data search and subsetting of large-scale atmospheric datasets
+JO  - Future Generation Computer Systems
+VL  - 28
+IS  - 1
+SP  - 112
+EP  - 118
+PY  - 2012/1//
+T2  - 
+AU  - Pallickara, Sangmi Lee
+AU  - Pallickara, Shrideep
+AU  - Zupanski, Milija
+SN  - 0167-739X
+DO  - http://dx.doi.org/10.1016/j.future.2011.05.010
+UR  - http://www.sciencedirect.com/science/article/pii/S0167739X11000926
+KW  - Metadata
+KW  - Discovery
+KW  - Cloud computing
+KW  - Atmospheric sciences
+KW  - Large-scale datasets
+ER  - 
+
+TY  - JOUR
+T1  - A fast algorithm for constructing inverted files on heterogeneous platforms
+JO  - Journal of Parallel and Distributed Computing
+VL  - 72
+IS  - 5
+SP  - 728
+EP  - 738
+PY  - 2012/5//
+T2  - 
+AU  - Wei, Zheng
+AU  - JaJa, Joseph
+SN  - 0743-7315
+DO  - http://dx.doi.org/10.1016/j.jpdc.2012.02.005
+UR  - http://www.sciencedirect.com/science/article/pii/S0743731512000391
+KW  - Indexer
+KW  - Inverted files
+KW  - Multicore
+KW  - GPU
+KW  - Pipelined and parallel parsing and indexing
+ER  - 
+
+TY  - JOUR
+T1  - A Cloud-Based Recommender System - A Case Study of Delicacy Recommendation
+JO  - Procedia Engineering
+VL  - 15
+IS  - 0
+SP  - 3174
+EP  - 3178
+PY  - 2011///
+T2  - CEIS 2011
+AU  - Chen, Chi-Hua
+AU  - Yang, Ya-Ching
+AU  - Shih, Pei-Liang
+AU  - Lee, Fang-Yi
+AU  - Lo, Chi-Chun
+SN  - 1877-7058
+DO  - http://dx.doi.org/10.1016/j.proeng.2011.08.596
+UR  - http://www.sciencedirect.com/science/article/pii/S1877705811020972
+KW  - Delicacy Recommendation
+KW  - Web Content Corpus
+KW  - Automatic Text Summarization
+KW  - Cloud-Based Recommender System
+ER  - 
+
+TY  - JOUR
+T1  - A historical probability based noise generation strategy for privacy protection in cloud computing
+JO  - Journal of Computer and System Sciences
+VL  - 78
+IS  - 5
+SP  - 1374
+EP  - 1381
+PY  - 2012/9//
+T2  - JCSS Special Issue: Cloud Computing 2011
+AU  - Zhang, Gaofeng
+AU  - Yang, Yun
+AU  - Chen, Jinjun
+SN  - 0022-0000
+DO  - http://dx.doi.org/10.1016/j.jcss.2011.12.020
+UR  - http://www.sciencedirect.com/science/article/pii/S0022000011001656
+KW  - Cloud computing
+KW  - Privacy protection
+KW  - Noise generation strategy
+KW  - Historical probability
+ER  - 
+
+TY  - JOUR
+T1  - Learning by expansion: Exploiting social media for image classification with few training examples
+JO  - Neurocomputing
+VL  - 95
+IS  - 0
+SP  - 117
+EP  - 125
+PY  - 2012/10/15/
+T2  - Learning from Social Media Network
+AU  - Wang, Sheng-Yuan
+AU  - Liao, Wei-Shing
+AU  - Hsieh, Liang-Chi
+AU  - Chen, Yan-Ying
+AU  - Hsu, Winston H.
+SN  - 0925-2312
+DO  - http://dx.doi.org/10.1016/j.neucom.2011.05.043
+UR  - http://www.sciencedirect.com/science/article/pii/S0925231212001658
+KW  - Object recognition
+KW  - Image classification
+KW  - Web image search
+KW  - Crowdsourcing
+KW  - Semantic query expansion
+ER  - 
+
+TY  - JOUR
+T1  - Cost optimized provisioning of elastic resources for application workflows
+JO  - Future Generation Computer Systems
+VL  - 27
+IS  - 8
+SP  - 1011
+EP  - 1026
+PY  - 2011/10//
+T2  - 
+AU  - Byun, Eun-Kyu
+AU  - Kee, Yang-Suk
+AU  - Kim, Jin-Soo
+AU  - Maeng, Seungryoul
+SN  - 0167-739X
+DO  - http://dx.doi.org/10.1016/j.future.2011.05.001
+UR  - http://www.sciencedirect.com/science/article/pii/S0167739X11000744
+KW  - Resource capacity estimation
+KW  - Resource allocation
+KW  - Application workflow
+KW  - Cloud computing economy
+ER  - 
+
+TY  - JOUR
+T1  - Efficient audit service outsourcing for data integrity in clouds
+JO  - Journal of Systems and Software
+VL  - 85
+IS  - 5
+SP  - 1083
+EP  - 1095
+PY  - 2012/5//
+T2  - 
+AU  - Zhu, Yan
+AU  - Hu, Hongxin
+AU  - Ahn, Gail-Joon
+AU  - Yau, Stephen S.
+SN  - 0164-1212
+DO  - http://dx.doi.org/10.1016/j.jss.2011.12.024
+UR  - http://www.sciencedirect.com/science/article/pii/S0164121211003189
+KW  - Security
+KW  - Cloud storage
+KW  - Interactive proof system
+KW  - Provable data possession
+KW  - Audit service
+ER  - 
+
+TY  - JOUR
+T1  - Cooling-aware workload placement with performance constraints
+JO  - Performance Evaluation
+VL  - 68
+IS  - 11
+SP  - 1232
+EP  - 1246
+PY  - 2011/11//
+T2  - Special Issue: Performance 2011
+AU  - Sansottera, Andrea
+AU  - Cremonesi, Paolo
+SN  - 0166-5316
+DO  - http://dx.doi.org/10.1016/j.peva.2011.07.018
+UR  - http://www.sciencedirect.com/science/article/pii/S016653161100109X
+KW  - Data center
+KW  - Cooling aware consolidation
+KW  - CFD
+ER  - 
+
+TY  - JOUR
+T1  - ModeleR: An enviromental model repository as knowledge base for experts
+JO  - Expert Systems with Applications
+VL  - 39
+IS  - 9
+SP  - 8396
+EP  - 8411
+PY  - 2012/7//
+T2  - 
+AU  - Pérez-Pérez, R.
+AU  - Benito, B.M.
+AU  - Bonet, F.J.
+SN  - 0957-4174
+DO  - http://dx.doi.org/10.1016/j.eswa.2012.01.180
+UR  - http://www.sciencedirect.com/science/article/pii/S0957417412002084
+KW  - Environmental model repository
+KW  - Knowledge
+KW  - Experts
+KW  - Information systems
+KW  - Workflow
+KW  - Scientific workflow
+ER  - 
+
+TY  - JOUR
+T1  - Understanding application-level interoperability: Scaling-out MapReduce over high-performance grids and clouds
+JO  - Future Generation Computer Systems
+VL  - 27
+IS  - 5
+SP  - 590
+EP  - 599
+PY  - 2011/5//
+T2  - 
+AU  - Sehgal, Saurabh
+AU  - Erdelyi, Miklos
+AU  - Merzky, Andre
+AU  - Jha, Shantenu
+SN  - 0167-739X
+DO  - http://dx.doi.org/10.1016/j.future.2010.11.001
+UR  - http://www.sciencedirect.com/science/article/pii/S0167739X10002116
+KW  - Programming systems
+KW  - Distributed systems
+KW  - Scale-out
+KW  - Interoperability
+KW  - MapReduce
+KW  - SAGA
+ER  - 
+
+TY  - JOUR
+T1  - A capabilities-aware framework for using computational accelerators in data-intensive computing
+JO  - Journal of Parallel and Distributed Computing
+VL  - 71
+IS  - 2
+SP  - 185
+EP  - 197
+PY  - 2011/2//
+T2  - Data Intensive Computing
+AU  - Rafique, M. Mustafa
+AU  - Butt, Ali R.
+AU  - Nikolopoulos, Dimitrios S.
+SN  - 0743-7315
+DO  - http://dx.doi.org/10.1016/j.jpdc.2010.09.004
+UR  - http://www.sciencedirect.com/science/article/pii/S074373151000184X
+KW  - Cloud computing
+KW  - MapReduce
+KW  - Asymmetric multicores
+KW  - Programming accelerators
+KW  - Data-intensive computing
+KW  - Heterogeneous clusters
+ER  - 
+
+TY  - JOUR
+T1  - CPRS: A cloud-based program recommendation system for digital TV platforms
+JO  - Future Generation Computer Systems
+VL  - 27
+IS  - 6
+SP  - 823
+EP  - 835
+PY  - 2011/6//
+T2  - 
+AU  - Lai, Chin-Feng
+AU  - Chang, Jui-Hung
+AU  - Hu, Chia-Cheng
+AU  - Huang, Yueh-Min
+AU  - Chao, Han-Chieh
+SN  - 0167-739X
+DO  - http://dx.doi.org/10.1016/j.future.2010.10.002
+UR  - http://www.sciencedirect.com/science/article/pii/S0167739X10001950
+KW  - Map-reduce
+KW  - Electronic program guide (EPG)
+KW  - k  -nearest neighbor (kNN)
+KW  - k  -means
+ER  - 
+
+TY  - JOUR
+T1  - Pivot selection: Dimension reduction for distance-based indexing
+JO  - Journal of Discrete Algorithms
+VL  - 13
+IS  - 0
+SP  - 32
+EP  - 46
+PY  - 2012/5//
+T2  - Best Papers from the 3rd International Conference on Similarity Search and Applications (SISAP 2010)
+AU  - Mao, Rui
+AU  - Miranker, Willard L.
+AU  - Miranker, Daniel P.
+SN  - 1570-8667
+DO  - http://dx.doi.org/10.1016/j.jda.2011.10.004
+UR  - http://www.sciencedirect.com/science/article/pii/S1570866711000992
+KW  - Similarity query
+KW  - Metric space
+KW  - Dimension reduction
+KW  - Intrinsic dimension
+KW  - Pivot selection
+KW  - Pivot space model
+ER  - 
+
+TY  - JOUR
+T1  - Massively parallel acceleration of a document-similarity classifier to detect web attacks
+JO  - Journal of Parallel and Distributed Computing
+VL  - 71
+IS  - 2
+SP  - 225
+EP  - 235
+PY  - 2011/2//
+T2  - Data Intensive Computing
+AU  - Ulmer, Craig
+AU  - Gokhale, Maya
+AU  - Gallagher, Brian
+AU  - Top, Philip
+AU  - Eliassi-Rad, Tina
+SN  - 0743-7315
+DO  - http://dx.doi.org/10.1016/j.jpdc.2010.07.005
+UR  - http://www.sciencedirect.com/science/article/pii/S0743731510001346
+KW  - Cybersecurity
+KW  - Document classification
+KW  - Machine learning
+KW  - Multi-core
+KW  - Reconfigurable computing
+ER  - 
+
+TY  - JOUR
+T1  - Special section: Peer-to-peer grid technologies
+JO  - Future Generation Computer Systems
+VL  - 26
+IS  - 5
+SP  - 701
+EP  - 703
+PY  - 2010/5//
+T2  - 
+AU  - Hsu, Ching-Hsien
+AU  - Jin, Hai
+AU  - Cappello, Franck
+SN  - 0167-739X
+DO  - http://dx.doi.org/10.1016/j.future.2010.02.005
+UR  - http://www.sciencedirect.com/science/article/pii/S0167739X1000021X
+ER  - 
+
+TY  - JOUR
+T1  - Creating voiD descriptions for Web-scale data
+JO  - Web Semantics: Science, Services and Agents on the World Wide Web
+VL  - 9
+IS  - 3
+SP  - 339
+EP  - 345
+PY  - 2011/9//
+T2  - Semantic Web Dynamics Semantic Web Challenge, 2010
+AU  - Böhm, Christoph
+AU  - Lorey, Johannes
+AU  - Naumann, Felix
+SN  - 1570-8268
+DO  - http://dx.doi.org/10.1016/j.websem.2011.06.001
+UR  - http://www.sciencedirect.com/science/article/pii/S1570826811000370
+KW  - Semantic Web
+KW  - Vocabulary of Interlinked Data
+KW  - Semantic data profiling
+KW  - RDF metadata generation
+KW  - Cloud computing
+ER  - 
+
+TY  - JOUR
+T1  - RDFProv: A relational RDF store for querying and managing scientific workflow provenance
+JO  - Data & Knowledge Engineering
+VL  - 69
+IS  - 8
+SP  - 836
+EP  - 865
+PY  - 2010/8//
+T2  - 
+AU  - Chebotko, Artem
+AU  - Lu, Shiyong
+AU  - Fei, Xubo
+AU  - Fotouhi, Farshad
+SN  - 0169-023X
+DO  - http://dx.doi.org/10.1016/j.datak.2010.03.005
+UR  - http://www.sciencedirect.com/science/article/pii/S0169023X10000455
+KW  - Provenance
+KW  - Scientific workflow
+KW  - Metadata management
+KW  - Ontology
+KW  - RDF
+KW  - OWL
+KW  - SPARQL-to-SQL translation
+KW  - Query optimization
+KW  - RDF store
+KW  - RDBMS
+ER  - 
+
+TY  - JOUR
+T1  - Performance modeling of Cartesian product networks
+JO  - Journal of Parallel and Distributed Computing
+VL  - 71
+IS  - 1
+SP  - 105
+EP  - 113
+PY  - 2011/1//
+T2  - 
+AU  - Moraveji, Reza
+AU  - Sarbazi-Azad, Hamid
+AU  - Zomaya, Albert Y.
+SN  - 0743-7315
+DO  - http://dx.doi.org/10.1016/j.jpdc.2010.09.010
+UR  - http://www.sciencedirect.com/science/article/pii/S0743731510001978
+KW  - Interconnection networks
+KW  - Cartesian product network
+KW  - Performance modeling
+KW  - Wormhole switching
+ER  - 
+
+TY  - JOUR
+T1  - Some observations on optimal frequency selection in DVFS-based energy consumption minimization
+JO  - Journal of Parallel and Distributed Computing
+VL  - 71
+IS  - 8
+SP  - 1154
+EP  - 1164
+PY  - 2011/8//
+T2  - 
+AU  - Rizvandi, Nikzad Babaii
+AU  - Taheri, Javid
+AU  - Zomaya, Albert Y.
+SN  - 0743-7315
+DO  - http://dx.doi.org/10.1016/j.jpdc.2011.01.004
+UR  - http://www.sciencedirect.com/science/article/pii/S0743731511000165
+KW  - DVFS
+KW  - Energy efficiency
+KW  - Scheduling
+KW  - HPCS
+ER  - 
+
+TY  - JOUR
+T1  - A general methodology for direction-based irregular routing algorithms
+JO  - Journal of Parallel and Distributed Computing
+VL  - 70
+IS  - 4
+SP  - 363
+EP  - 370
+PY  - 2010/4//
+T2  - 
+AU  - Moraveji, R.
+AU  - Sarbazi-Azad, H.
+AU  - Zomaya, A.Y.
+SN  - 0743-7315
+DO  - http://dx.doi.org/10.1016/j.jpdc.2009.11.004
+UR  - http://www.sciencedirect.com/science/article/pii/S0743731509002275
+KW  - Interconnection networks
+KW  - Irregular network
+KW  - General methodology
+KW  - Routing algorithm
+KW  - Zone-based routing
+KW  - Performance evaluation
+KW  - Simulation
+ER  - 
+
+
