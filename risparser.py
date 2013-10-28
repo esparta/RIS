@@ -8,13 +8,13 @@ class baseclass(object):
 class dateclass(baseclass):
     
     def __init__(self,value):
-        if not (isinstance(value, str) \
-            or isinstance(value, unicode)): 
-            raise TypeError("value paramt must be string / unicode.\
+        ## Can handle only str or unicode
+        if not isinstance(value, basestring):
+            raise TypeError("dateclass: Value param must be str or unicode.\
                              Suplied:{}".format(type(value)))
         
         ## Remove last "/" if suplied
-        self.value = value[:value.rfind("/")-1]  
+        self.value = value[:value.rfind("/") - 1]  
 
         self.year  = None
         self.month = None
