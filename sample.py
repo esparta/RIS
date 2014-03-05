@@ -1,16 +1,17 @@
+""" Functional testing file. Sample some features on risparser"""
 # -*- coding: utf-8 -*-
-from __future__ import print_function 
-from risparser import RISParser
+from __future__ import print_function
+from risparser import risparser
 from collections import defaultdict
 import optparse
 import sys
-import time 
+import time
 
 def main(args=None):
-
+    """ Functional testing file """
     ## Set up option parser
     parser = optparse.OptionParser(usage="python sample.py [options] file")
-    parser.add_option("-v","--verbose",action="store_true", 
+    parser.add_option("-v", "--verbose", action="store_true",
                       help="Verbose logging", default=False)
 
     options, args = parser.parse_args(args)
@@ -26,17 +27,17 @@ def main(args=None):
         print("Processing {0}".format(filename))
         if options.verbose:
             init_time = time.time()
-        with RISParser(filename) as citations:
-            for c in citations:
-                p = c.getvalue("PY") 
-                pubyear[p.year] += 1
+        with risparser(filename) as citations:
+            for cite in citations:
+                publication = cite.getvalue("PY")
+                pubyear[publication.year] += 1
 
 
         refs = 0
 
-        for k,v in pubyear.items():
-            print(k,v)
-            refs += v
+        for key, value in pubyear.items():
+            print(key, value)
+            refs += value
 
         if options.verbose:
             print("Total references: {r} on {s:.2} seconds"\
