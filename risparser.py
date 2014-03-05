@@ -3,7 +3,9 @@ risparser
 Module to process a the bibliographic file format called RIS.
 """
 from collections import defaultdict
+import re
 
+TITLE_REGEX = re.compile(r"(.*?)\s*-\s*(.*)")
 
 class Dateclass(object):
     """ Utility class for date manipulation """
@@ -11,14 +13,12 @@ class Dateclass(object):
         ## Can handle only str or unicode
         if not isinstance(value, basestring):
             message = """
-                dateclass: Value param must be str or unicode.\
-                             Suplied:{}
+                dateclass: Value param must be str or unicode. Suplied:{}
             """
             raise TypeError(message.format(type(value)))
 
         ## Remove last "/" if suplied
         self.value = value[:value.rfind("/") - 1]
-
         self.year  = None
         self.month = None
         self.day   = None
@@ -44,7 +44,6 @@ class Dateclass(object):
         """ Return the processed year """
         return self.year
 
-
     def __str__(self):
         return self.value
 
@@ -61,9 +60,7 @@ class Citation(object):
     def process(self, tokens):
         """ Process the file """
         for token in tokens:
-            __dash = token.find("-")
-            __key = token[:__dash].rstrip()
-            __value = token[__dash+1:].lstrip()
+            __key, __value = TITLE_REGEX.search(token).groups()
             ## Author and Keyword can have n-values
             if __key in ["AU","KW"]:
                 self.info[__key].append(__value)
